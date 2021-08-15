@@ -14,7 +14,7 @@
     <h1 transition:slide >
         hell
     </h1>
-    <p transition:slide >kjsfhaigh suifhjskd sakj hlksjfh skfjghksjfhgjdkfhg dfkghfdksfhg kfhgdjfhg kdkjdfhs gkjsdhf gkjhdkfg hdkfg jhdkfjhg dkfjhgkdjhgkdshrudhgsi4hesheruh8754 83 iuerhg73hhg</p>
+    <p transition:slide >oh</p>
     <Link  to="/"><button>jifg</button></Link>
     <button on:click={kiaSoul}>{kia} kias</button>
     Speedometer <Speedometer />
